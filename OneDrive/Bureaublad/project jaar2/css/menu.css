@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Urbanist:ital,wght@1,200&display=swap');
+
+* {
+    font-family: 'Urbanist', sans-serif;
+}
+
+.verticalLineLeft {
+  border-left:  solid black;
+}
+
+.verticalLineRight {
+  border-right:  solid black;
+}
+
+
+.horizontalLineTop {
+  border-top:  solid black;
+}
+
+.horizontalLineBottom {
+  border-bottom:  solid black;
+}
+
+#george {
+    font-weight: bold;
+  }
+
+
+
+
